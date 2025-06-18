@@ -1,4 +1,4 @@
-# ai-ethics-research
+# AI and Ethics Research
 Research papers, presentations, and thought leadership on artificial intelligence ethics
 
 ## Beyond the Binary -  Ethical Considerations in AI-Assisted Healthcare for Transgender and Intersex Communities
